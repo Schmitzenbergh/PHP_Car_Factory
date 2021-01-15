@@ -7,7 +7,6 @@ class car
     private $model;
     private $brand;
     private $colour;
-    private $radio;
 
     /**
      * car constructor.
