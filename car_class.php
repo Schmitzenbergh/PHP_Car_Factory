@@ -17,7 +17,7 @@ class car
      * @param $brand
      * @param $colour
      */
-    public function __construct($engine, $wheels, $model, $brand, $colour, $radio)
+    public function __construct($engine, $wheels, $model, $brand, $colour)
     {
         $this->engine = $engine;
         $this->wheels = $wheels;
